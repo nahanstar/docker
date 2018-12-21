@@ -1,5 +1,5 @@
-FROM ubuntu:14.04
-MAINTAINER Nahanstar <nahanstar@gmail.com>
+FROM ubuntu:18.04
+MAINTAINER Nahanstar <nahanstar@naver.com>
 
 RUN apt-get update
 RUN apt-get install -y nginx
